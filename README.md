@@ -2,7 +2,7 @@
 - fullstack developer.
 - microsoft technologies asp.net mvc, webapi,blazor
 - 👀 I’m interested in everything tech.
-- 🌱 I’m currently learning javascript , angular , microservices , containers
+- 🌱 I’m currently learning AI/ML. agent orchestration and MCP
 - 💞️ I’m looking to collaborate on interesting project, opensource
 - 📫 How to reach me mustafa.ash@gmail.com
 
